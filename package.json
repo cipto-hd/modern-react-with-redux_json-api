@@ -1,0 +1,14 @@
+{
+  "name": "json-api",
+  "version": "1.0.0",
+  "main": "./api/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./api/index.js"
+  },
+  "dependencies": {
+    "faker": "^5.1.0",
+    "json-server": "^0.16.2",
+    "lodash": "^4.17.20"
+  }
+}
